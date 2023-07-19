@@ -1,0 +1,768 @@
+
+
+footer {
+  text-align: center;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: red;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+h2 {
+text-align: center;
+margin: 0;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto;
+}
+
+li {
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo img {
+  height: 50px;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+nav {
+  background-color: red; 
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0; 
+}
+
+nav li {
+  margin-right: 10px;
+}
+
+nav a {
+  color: white;
+}
+
+main {
+  padding: 20px;
+  color: white;
+}
+
+section.Bienvenidos {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+section.destacados {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+section.destacados div {
+  width: 300px;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  color: black;
+}
+
+section.titulo-destacados {
+  text-align: center;
+}
+
+footer#redes {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+footer#redes img {
+  margin-bottom: 10px;
+}
+/* tienda */
+
+body {
+  background-image: url("../img/fondo-star-wars.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+footer {
+  text-align: center;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto;
+}
+
+li {
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo img {
+  height: 50px;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+nav {
+  background-color: red; 
+}
+
+nav ul {
+  display: flex;
+}
+
+nav li {
+  margin-right: 10px;
+}
+
+nav a {
+  color: white;
+}
+
+main {
+  padding: 20px;
+  color: white;
+}
+  
+  .logo img {
+    height: 50px;
+    padding-top: 5px;
+    padding-left: 5px;
+  }
+  
+  section.Tienda {
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+  }
+  
+  .titulo-tienda {
+    text-align: center;
+    
+  }
+  
+  .Productos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .Productos div {
+    width: 300px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    color: black;
+    flex-wrap: wrap;
+  }
+
+  /*footer*/
+
+footer {
+    background-color: black;
+    color: #fff;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 20px;
+    
+  }
+
+  /* nosotors */
+
+  body {
+    background-image: url("../img/fondo-star-wars.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 0;
+  }
+  
+  ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+  }
+  
+  li {
+    margin-left: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .logo img {
+    height: 50px;
+    padding-top: 5px;
+    padding-left: 5px;
+  }
+  
+  header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+  
+  nav {
+    background-color: red; 
+  }
+  
+  nav ul {
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: white;
+  }
+  
+  main {
+    padding: 20px;
+    color: white;
+  }
+    
+    .logo img {
+      height: 50px;
+      padding-top: 5px;
+      padding-left: 5px;
+    }
+  
+    .Nosotros {
+      margin-bottom: 20px;
+    }
+    
+    .Mas-Informacion {
+      margin-bottom: 20px;
+    }
+    
+    /*footer*/
+  
+  footer {
+      background-color: black;
+      color: #fff;
+      display: flex;
+      justify-content:center;
+      align-items: center;
+      padding: 20px;
+      
+    }
+  
+  /*contacto*/
+  
+  body {
+    background-image: url("../img/fondo-star-wars.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 0;
+  }
+  
+  ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+  }
+  
+  li {
+    margin-left: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .logo img {
+    height: 50px;
+    padding-top: 5px;
+    padding-left: 5px;
+  }
+  
+  header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+  
+  nav {
+    background-color: red; 
+  }
+  
+  nav ul {
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: white;
+  }
+  
+  main {
+    padding: 20px;
+    color: white;
+  }
+    
+    .logo img {
+      height: 50px;
+      padding-top: 5px;
+      padding-left: 5px;
+    }
+  
+    .contacto h2 {
+      text-align: center;
+    }
+    
+    .contacto h3 {
+      text-align: center;
+    }
+    
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    form div {
+      margin-bottom: 15px;
+    }
+    
+    form label {
+      display: block;
+      margin-bottom: 5px;
+    }
+    
+    form input[type="text"],
+    form input[type="number"] {
+      width: 300px;
+      padding: 10px;
+    }
+    
+    form p.boton-enviar {
+      cursor: pointer;
+      padding: 10px 20px;
+      background-color: red;
+      color: white;
+      border-radius: 5px;
+    }
+  
+    /*footer*/
+  
+  footer {
+      background-color: black;
+      color: #fff;
+      display: flex;
+      justify-content:center;
+      align-items: center;
+      padding: 20px;
+      
+    }
+
+    /*login*/
+    body {
+      background-image: url("../img/fondo-star-wars.jpeg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: white;
+    }
+    
+    footer {
+      text-align: center;
+    }
+    
+    header {
+      background-color: black;
+      color: white;
+      padding: 20px;
+    }
+    
+    nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    h1 {
+      text-align: center;
+      margin: 0;
+    }
+    
+    ul {
+      display: flex;
+      list-style-type: none;
+      padding: 0;
+      margin: 0 auto;
+    }
+    
+    li {
+      margin-left: 10px;
+    }
+    
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+    
+    .logo img {
+      height: 50px;
+      padding-top: 5px;
+      padding-left: 5px;
+    }
+    
+    header {
+      background-color: black;
+      color: white;
+      padding: 20px;
+    }
+    
+    nav {
+      background-color: red; 
+    }
+    
+    nav ul {
+      display: flex;
+    }
+    
+    nav li {
+      margin-right: 10px;
+    }
+    
+    nav a {
+      color: white;
+    }
+    
+    main {
+      padding: 20px;
+      color: white;
+    }
+      
+      .logo img {
+        height: 50px;
+        padding-top: 5px;
+        padding-left: 5px;
+      }
+    
+      .formulario.login {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+      }
+      
+    .login h2 {
+        margin-bottom: 20px;
+        text-align: center;
+      }
+      
+    .formulario.login form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      
+    .formulario.login form div {
+        margin-bottom: 15px;
+      }
+      
+    .formulario.login form div label {
+        display: block;
+        margin-bottom: 5px;
+      }
+      
+    .formulario.login form div input[type="text"],
+    .formulario.login form div input[type="password"] {
+        width: 300px;
+        padding: 10px;
+      }
+      
+    .formulario.login form p.boton-login {
+        cursor: pointer;
+        padding: 10px 20px;
+        background-color: red;
+        color: white;
+        border-radius: 5px;
+      }
+    
+      /*footer*/
+    
+    footer {
+        background-color: black;
+        color: #fff;
+        display: flex;
+        justify-content:center;
+        align-items: center;
+        padding: 20px;
+        
+      }
+
+      /* carrito */
+
+      body {
+        background-image: url("../img/fondo-star-wars.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+      }
+      
+      footer {
+        text-align: center;
+      }
+      
+      header {
+        background-color: black;
+        color: white;
+        padding: 20px;
+      }
+      
+      nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      
+      h1 {
+        text-align: center;
+        margin: 0;
+      }
+      
+      ul {
+        display: flex;
+        list-style-type: none;
+        padding: 0;
+        margin: 0 auto;
+      }
+      
+      li {
+        margin-left: 10px;
+      }
+      
+      a {
+        text-decoration: none;
+        color: inherit;
+      }
+      
+      .logo img {
+        height: 50px;
+        padding-top: 5px;
+        padding-left: 5px;
+      }
+      
+      header {
+        background-color: black;
+        color: white;
+        padding: 20px;
+      }
+      
+      nav {
+        background-color: red; 
+      }
+      
+      nav ul {
+        display: flex;
+      }
+      
+      nav li {
+        margin-right: 10px;
+      }
+      
+      nav a {
+        color: white;
+      }
+      
+      main {
+        padding: 20px;
+        color: white;
+      }
+        
+        .logo img {
+          height: 50px;
+          padding-top: 5px;
+          padding-left: 5px;
+        }
+      
+        .carrito {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          height: 100vh;
+        }
+        
+      .carrito h2 {
+          margin-bottom: 20px;
+          text-align: center;
+        }
+        
+      .carrito ul#items-carrito {
+          list-style-type: none;
+          padding: 0;
+          margin-bottom: 20px;
+        }
+        
+      .carrito div#Carrito {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+        }
+        
+      .carrito div#Carrito h3 {
+          margin-bottom: 10px;
+        }
+        
+      .carrito div#Carrito button {
+          cursor: pointer;
+          padding: 10px 20px;
+          background-color: red;
+          color: white;
+          border: none;
+          border-radius: 5px;
+          margin-bottom: 5px;
+        }
+      
+        /*footer*/
+      
+      footer {
+          background-color: black;
+          color: #fff;
+          display: flex;
+          justify-content:center;
+          align-items: center;
+          padding: 20px;
+          
+        }
+
+
+
+
+
+
+
+
+
+
