@@ -25,6 +25,12 @@ h1 {
 h2 {
 text-align: center;
 margin: 0;
+font-size: 30px;
+}
+
+h3 {
+  text-align: left;
+font-size: 20px;
 }
 
 ul {
@@ -64,6 +70,7 @@ nav ul {
   list-style-type: none;
   padding: 0;
   margin: 0; 
+  box-sizing: border-box;
 }
 
 nav li {
@@ -82,28 +89,33 @@ main {
 section.Bienvenidos {
   text-align: center;
   margin-bottom: 20px;
-}
-
-section.destacados {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  padding-inline: 10vh;
+}
+
+section.Introduccion {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
-  gap: 20px;
-  padding: 20px;
-  text-align: center;
+  height: 45vh;
+  
 }
 
-section.destacados div {
-  width: 300px;
-  padding: 20px;
-  background-color: #f2f2f2;
-  border-radius: 8px;
-  margin-bottom: 20px;
-  color: black;
+section.Trilogias {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
 }
 
-section.titulo-destacados {
-  text-align: center;
+section.Video {
+  display: flex;
+  align-items: center;
+  justify-content:center;
+
 }
 
 footer#redes {
@@ -356,6 +368,9 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
   }
   
   footer {
@@ -470,7 +485,7 @@ footer {
       color: white;
       border-radius: 5px;
     }
-  
+    
     /*footer*/
   
   footer {
@@ -480,7 +495,7 @@ footer {
       justify-content:center;
       align-items: center;
       padding: 20px;
-      
+      margin-top: auto;
     }
 
     /*login*/
